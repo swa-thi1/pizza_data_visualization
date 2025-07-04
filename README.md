@@ -55,7 +55,8 @@ Support decisions around inventory, marketing strategies, and product placement
 ## 🖼️ Dashboard Previews
 
 Screenshots of both dashboards are available in the  folder for quick reference.
-
+<a href="https://github.com/swa-thi1/pizza_data_visualization/blob/main/Homepage.png">Home-Page</a>
+<a href="https://github.com/swa-thi1/pizza_data_visualization/blob/main/Homepage.png
 
 
 
